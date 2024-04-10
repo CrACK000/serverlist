@@ -1,0 +1,10 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "delight-im/auth": "^7.2",
+        "delight-im/file-upload": "^1.1",
+        "delight-im/base64": "^1.0",
+        "slim/pdo": "^1.10",
+        "delight-im/db": "^1.2"
+    }
+}
